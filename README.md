@@ -33,7 +33,7 @@ Auf dem folgenden Link kommen sie zum erstellten Code: [LED_Blinken_2](https://g
 
 # Aufbau und Funktionalität 
 Um die Funktionalität des Projektes zu zeigen haben folgendes [Video](https://github.com/JorTur099/Ampelsteuerung/blob/master/VideoAmpelsteuerung.mp4) der Ampelsteuerung erstellt.
-Ebenfall haben wir ein paar [Bilder]() Aufbaus gemacht.
+Ebenfall haben wir ein paar [Bilder](https://github.com/JorTur099/Ampelsteuerung) Aufbaus gemacht.
 
 
 Erstellt von Jordan Türtscher & Stefan Rüdisser
