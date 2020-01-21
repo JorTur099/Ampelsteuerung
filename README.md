@@ -15,6 +15,6 @@ Die Verbindungen zwischen Raspberry und dem Ampelboard wird mit Jumper - Kabel h
 # Code Beschreibung
 
 
-Link einfügen:[GitHub Pages](https://pages.github.com/)
+Auf dem folgenden Link kommen sie zum erstellten Code: [LED_Blinken_2](https://github.com/JorTur099/Ampelsteuerung/blob/master/LED_Blinken_2.py)
 
 
