@@ -64,7 +64,7 @@ GPIO.setup(FUSS2_ROT,GPIO.OUT)
 #fussgaenger2 gruen -> out3
 GPIO.setup(FUSS2_GRUEN,GPIO.OUT)
 
-ampel1_gruen(False)
+ampel1_gruen(True)
 ampel1_gelb(False)
 ampel1_rot(True)
 ampel2_gruen(False)
